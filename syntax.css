@@ -1,5 +1,6 @@
 body
 {
+    width: 1000px;
     background-color: #b0c1c1;
     font-family: 'Cinzel', serif;
 }
@@ -39,7 +40,7 @@ body
  padding: 10px;
  margin-top: 20px;
  margin-bottom:25px;
- height: 170px;
+ height: 220px;
 
 }
 
